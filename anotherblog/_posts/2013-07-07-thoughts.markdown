@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Productivity"
+date:   2013-07-07
+categories: productivity
+---
+# Struggle with Scrivener, Markdown, and Github to Write Presentations and blogs for Class
+
+All of this weekend, I struggled with the idea of putting together a workable solution to put ideas integrating everything to be done as simple as possible over web, and no simpler. The friends in the process are tools that we can use (I think):
+
+1. Use markdown for writing posts in Scrivener
+2. Use sketchnotes (more on that later) and scapple for putting together ideas
+3. Use git for hosting the files with Jekyll
+4. Use Moodle (at the University of Canterbury we use something known as Learn) to show it to students
+
+## Using Markdown (or multimarkdown) and Scrivener for writing
+
+## Using Sketchnotes to Develop the Idea
+
+## Using Git and Jekyll for Hosting
+
+## Tying it all with Moodle
+
