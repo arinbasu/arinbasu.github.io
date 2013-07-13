@@ -96,6 +96,15 @@ ul.posts span {
   color: #000;
 }
 
+
+
+.site .content {
+top : 0px;
+  padding : 3px;
+  color : #000000;
+  background : #fff;
+}
+
 .site .meta {
   color: #aaa;
 }

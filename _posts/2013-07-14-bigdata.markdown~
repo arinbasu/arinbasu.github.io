@@ -1,0 +1,8 @@
+Author: Arindam Bose
+title: <$title>
+
+Came across this very interesting article on big data mining that argues that while big data is great for business intelligence such as positioning of brands (say cereals) before a snowstorm, their assumptions that correlation == causation is a problematic one. By the same token, when you take big data in healthcare and analyze, these should  not necessarily have connotations for health policy setting, as for policy you necessarily have to have a notion of cause and effect association. The other issue around that problem is the role of small numbers versus large numbers and the purpose for which these data are collected. 
+
+See more here: [Big Data Article][1]
+
+[1]:http://readwrite.com/2013/07/12/big-datas-dehumanizing-impact-on-public-policy#awesm=~obvtoB2z3ylrHM
