@@ -1,4 +1,5 @@
 ---
+layout: post
 Author: Arindam Bose
 title: The Role of Big Data in Healthcare Policy Making
 ---
