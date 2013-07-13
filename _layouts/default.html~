@@ -23,9 +23,7 @@
               <br/>
               <img src="{{ site.url }}/assets/lyndon.jpg" height="200px" width="600px">
             </div>
-            <div class="lsidebar">
-            the left long bar
-            </div>
+
 
             <div class="content">
                 {{ content }}
