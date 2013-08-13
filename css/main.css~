@@ -102,7 +102,7 @@ ul.posts span {
 top : 0px;
   padding : 3px;
   color : #000000;
-  background : #bbb;
+  background : #fff;
 }
 
 .site .meta {
