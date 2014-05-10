@@ -2,6 +2,6 @@
 <img src="{{site.url}}/assets/basu.jpg" />
 <p>
 <body>
-Arin Basu is a physician, epidemiologist and a health services researcher at the University of Canterbury, Christchurch, New Zealand. This blog presents his ideas and reflections.
+Arin Basu teaches health sciences at the University of Canterbury, Christchurch, New Zealand.
 </body>
 </html>
